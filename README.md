@@ -11,7 +11,7 @@ you can run Backend or Frontend with the given script.
 #### Cloning ####
 git clone https://github.com/faraz-github/MERN-Stack-Starter-Template.git
 #### Installing Dependencies ####
-cd backend > npm install
+cd root > npm install
 cd frontend > npm install
 #### Running Application ####
 npm run server
