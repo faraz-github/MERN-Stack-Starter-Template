@@ -9,7 +9,7 @@ you can run Backend or Frontend with the given script.
 ```sh
 
 #### Cloning ####
-git clone REMOTE_REPOSITORY_URL.git
+git clone https://github.com/faraz-github/MERN-Stack-Starter-Template.git
 #### Installing Dependencies ####
 cd backend > npm install
 cd frontend > npm install
